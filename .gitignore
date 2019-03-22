@@ -151,3 +151,6 @@ dmypy.json
 .pyre/
 
 .vscode/*
+
+# Data
+app/group_manager/functions/QR.png
